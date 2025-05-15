@@ -1,0 +1,17 @@
+# Ignore config file with sensitive info
+config.py
+
+# Ignore Python cache and environment folders
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+env/
+
+# Ignore VS Code settings (optional)
+.vscode/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
